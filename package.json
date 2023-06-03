@@ -1,0 +1,11 @@
+{
+  "name": "final-test-api-automation",
+  "version": "1.0.0",
+  "description": "api automation final test",
+  "main": "index.js",
+  "author": "fachrydan",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
